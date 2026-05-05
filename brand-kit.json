@@ -1,0 +1,375 @@
+{
+  "brandKit": {
+    "id": "22f4e211-9d0d-4e19-b097-d8a23efce4b0",
+    "name": "Brand Kit - 4/12/2026",
+    "colors": [
+      {
+        "id": "648ae039-5426-4a60-b30a-695f98fd8648",
+        "hex": "#FFFFFF",
+        "rgb": {
+          "b": 255,
+          "g": 255,
+          "r": 255
+        },
+        "hsl": {
+          "h": 0,
+          "l": 100,
+          "s": 0
+        },
+        "name": "White",
+        "role": "extracted",
+        "prominence": 0.3415247695449931,
+        "pixelPercentage": 34.15247695449931
+      },
+      {
+        "id": "b82709f2-a672-40c9-af69-2c64a1007973",
+        "hex": "#000000",
+        "rgb": {
+          "b": 0,
+          "g": 0,
+          "r": 0
+        },
+        "hsl": {
+          "h": 0,
+          "l": 0,
+          "s": 0
+        },
+        "name": "Black",
+        "role": "extracted",
+        "prominence": 0.3356672568853184,
+        "pixelPercentage": 33.56672568853184
+      },
+      {
+        "id": "2ab144c2-3eca-43bd-a8b5-5c48261571ac",
+        "hex": "#FFF040",
+        "rgb": {
+          "b": 64,
+          "g": 240,
+          "r": 255
+        },
+        "hsl": {
+          "h": 55,
+          "l": 63,
+          "s": 100
+        },
+        "name": "Yellow",
+        "role": "extracted",
+        "prominence": 0.31916632606186895,
+        "pixelPercentage": 31.916632606186894
+      },
+      {
+        "id": "99a4789b-2b25-4f70-b72f-404d8c6335c6",
+        "hex": "#202020",
+        "rgb": {
+          "b": 32,
+          "g": 32,
+          "r": 32
+        },
+        "hsl": {
+          "h": 0,
+          "l": 13,
+          "s": 0
+        },
+        "name": "Black",
+        "role": "extracted",
+        "prominence": 0.003641647507819538,
+        "pixelPercentage": 0.3641647507819538
+      }
+    ],
+    "assets": [
+      {
+        "id": "766da7fb-78c9-477e-a1dc-eb979fdfc5ef",
+        "fileName": "1.png",
+        "assetType": "logo",
+        "mimeType": "image/png",
+        "metadata": {
+          "kind": "logo",
+          "aspectRatio": "square",
+          "variants": [
+            {
+              "width": 3375,
+              "height": 3375,
+              "purpose": "original",
+              "fileName": "1-original.png",
+              "mimeType": "image/png",
+              "storageKey": "brand-kits/653d1edd-628e-4142-9c21-53b781af8b8a/22f4e211-9d0d-4e19-b097-d8a23efce4b0/1-original.png",
+              "fileSizeBytes": 50700
+            },
+            {
+              "width": 16,
+              "height": 16,
+              "purpose": "favicon",
+              "fileName": "favicon-16.png",
+              "mimeType": "image/png",
+              "storageKey": "brand-kits/653d1edd-628e-4142-9c21-53b781af8b8a/22f4e211-9d0d-4e19-b097-d8a23efce4b0/favicon-16.png",
+              "fileSizeBytes": 483
+            },
+            {
+              "width": 32,
+              "height": 32,
+              "purpose": "favicon",
+              "fileName": "favicon-32.png",
+              "mimeType": "image/png",
+              "storageKey": "brand-kits/653d1edd-628e-4142-9c21-53b781af8b8a/22f4e211-9d0d-4e19-b097-d8a23efce4b0/favicon-32.png",
+              "fileSizeBytes": 1143
+            },
+            {
+              "width": 64,
+              "height": 64,
+              "purpose": "favicon",
+              "fileName": "favicon-64.png",
+              "mimeType": "image/png",
+              "storageKey": "brand-kits/653d1edd-628e-4142-9c21-53b781af8b8a/22f4e211-9d0d-4e19-b097-d8a23efce4b0/favicon-64.png",
+              "fileSizeBytes": 2830
+            },
+            {
+              "width": 128,
+              "height": 128,
+              "purpose": "favicon",
+              "fileName": "favicon-128.png",
+              "mimeType": "image/png",
+              "storageKey": "brand-kits/653d1edd-628e-4142-9c21-53b781af8b8a/22f4e211-9d0d-4e19-b097-d8a23efce4b0/favicon-128.png",
+              "fileSizeBytes": 6685
+            },
+            {
+              "width": 256,
+              "height": 256,
+              "purpose": "favicon",
+              "fileName": "favicon-256.png",
+              "mimeType": "image/png",
+              "storageKey": "brand-kits/653d1edd-628e-4142-9c21-53b781af8b8a/22f4e211-9d0d-4e19-b097-d8a23efce4b0/favicon-256.png",
+              "fileSizeBytes": 14964
+            },
+            {
+              "width": 32,
+              "height": 32,
+              "purpose": "favicon",
+              "fileName": "favicon.ico",
+              "mimeType": "image/x-icon",
+              "storageKey": "brand-kits/653d1edd-628e-4142-9c21-53b781af8b8a/22f4e211-9d0d-4e19-b097-d8a23efce4b0/favicon.ico",
+              "fileSizeBytes": 1143
+            }
+          ],
+          "aiAnalysis": {
+            "hasText": true,
+            "description": "A bold graphic logo featuring the letters 'WL' on a bright yellow (#FFE033) square background. The 'W' is rendered in white with a 3D perspective/extrusion effect using a halftone dot pattern in yellow for the shadow side, outlined in white. The 'L' is rendered in a solid black outline with a 3D isometric box effect, with yellow fill and black halftone dot shading on the shadow faces. Both letters use a chunky, sporty sans-serif style with strong dimensional depth. The overall aesthetic is bold, retro-modern with a comic/pop-art influence.",
+            "textContent": "WL",
+            "dominantColors": [
+              "#FFE033",
+              "#FFFFFF",
+              "#1A1A1A"
+            ],
+            "recommendations": {
+              "bestFor": [
+                "favicon",
+                "app-icon",
+                "hero"
+              ],
+              "usageNotes": "This logo has a solid bright yellow background (not transparent despite metadata indicating otherwise), so it works best on white or neutral light backgrounds. Avoid placing on dark or yellow backgrounds as it will not contrast well. At small sizes (favicon), the halftone dot details may be lost — consider a simplified version for sizes below 64px. The square format makes it ideal for app icons, profile avatars, or hero section brand marks. Do not stretch; maintain 1:1 aspect ratio at all times.",
+              "themeVariant": "light",
+              "notSuitableFor": [
+                "navbar",
+                "background"
+              ]
+            }
+          }
+        }
+      },
+      {
+        "id": "4925b0b4-1b5f-46ca-8923-33d43611224b",
+        "fileName": "2.png",
+        "assetType": "logo",
+        "mimeType": "image/png",
+        "metadata": {
+          "kind": "logo",
+          "aspectRatio": "square",
+          "variants": [
+            {
+              "width": 3375,
+              "height": 3375,
+              "purpose": "original",
+              "fileName": "2-original.png",
+              "mimeType": "image/png",
+              "storageKey": "brand-kits/653d1edd-628e-4142-9c21-53b781af8b8a/22f4e211-9d0d-4e19-b097-d8a23efce4b0/2-original.png",
+              "fileSizeBytes": 55927
+            },
+            {
+              "width": 16,
+              "height": 16,
+              "purpose": "favicon",
+              "fileName": "favicon-16.png",
+              "mimeType": "image/png",
+              "storageKey": "brand-kits/653d1edd-628e-4142-9c21-53b781af8b8a/22f4e211-9d0d-4e19-b097-d8a23efce4b0/favicon-16.png",
+              "fileSizeBytes": 433
+            },
+            {
+              "width": 32,
+              "height": 32,
+              "purpose": "favicon",
+              "fileName": "favicon-32.png",
+              "mimeType": "image/png",
+              "storageKey": "brand-kits/653d1edd-628e-4142-9c21-53b781af8b8a/22f4e211-9d0d-4e19-b097-d8a23efce4b0/favicon-32.png",
+              "fileSizeBytes": 1080
+            },
+            {
+              "width": 64,
+              "height": 64,
+              "purpose": "favicon",
+              "fileName": "favicon-64.png",
+              "mimeType": "image/png",
+              "storageKey": "brand-kits/653d1edd-628e-4142-9c21-53b781af8b8a/22f4e211-9d0d-4e19-b097-d8a23efce4b0/favicon-64.png",
+              "fileSizeBytes": 2795
+            },
+            {
+              "width": 128,
+              "height": 128,
+              "purpose": "favicon",
+              "fileName": "favicon-128.png",
+              "mimeType": "image/png",
+              "storageKey": "brand-kits/653d1edd-628e-4142-9c21-53b781af8b8a/22f4e211-9d0d-4e19-b097-d8a23efce4b0/favicon-128.png",
+              "fileSizeBytes": 7088
+            },
+            {
+              "width": 256,
+              "height": 256,
+              "purpose": "favicon",
+              "fileName": "favicon-256.png",
+              "mimeType": "image/png",
+              "storageKey": "brand-kits/653d1edd-628e-4142-9c21-53b781af8b8a/22f4e211-9d0d-4e19-b097-d8a23efce4b0/favicon-256.png",
+              "fileSizeBytes": 15726
+            },
+            {
+              "width": 32,
+              "height": 32,
+              "purpose": "favicon",
+              "fileName": "favicon.ico",
+              "mimeType": "image/x-icon",
+              "storageKey": "brand-kits/653d1edd-628e-4142-9c21-53b781af8b8a/22f4e211-9d0d-4e19-b097-d8a23efce4b0/favicon.ico",
+              "fileSizeBytes": 1080
+            }
+          ],
+          "aiAnalysis": {
+            "hasText": false,
+            "description": "Bold monogram logo featuring the letters 'WL' on a black background. The 'W' is rendered in white with a 3D isometric effect, using a black-and-white checkerboard/halftone pattern on its dimensional face. The 'L' is rendered in yellow/gold with the same 3D isometric treatment, featuring a yellow-and-black checkerboard halftone pattern on its dimensional face. Both letters have thick outlined strokes and a retro-modern typographic style with strong geometric construction. The overall aesthetic is bold, sporty, and high-contrast.",
+            "textContent": null,
+            "dominantColors": [
+              "#000000",
+              "#FFFFFF",
+              "#FFE600"
+            ],
+            "recommendations": {
+              "bestFor": [
+                "favicon",
+                "app-icon",
+                "hero"
+              ],
+              "usageNotes": "This logo is optimized for dark backgrounds due to its black base. Use on dark or black surfaces only — avoid placing on white or light-colored backgrounds as the black elements will disappear. The transparent background (confirmed) makes it flexible for dark UI contexts. At small sizes (favicon), the checkerboard detail may lose clarity; consider a simplified version for sizes below 32x32px. The square aspect ratio makes it ideal for profile pictures, app icons, and favicon use. The yellow (#FFE600) accent color can be extracted for brand theming purposes.",
+              "themeVariant": "dark",
+              "notSuitableFor": [
+                "background",
+                "light"
+              ]
+            }
+          }
+        }
+      },
+      {
+        "id": "ebd7152c-a94a-40b7-bebe-8619512f4aad",
+        "fileName": "3.png",
+        "assetType": "logo",
+        "mimeType": "image/png",
+        "metadata": {
+          "kind": "logo",
+          "aspectRatio": "square",
+          "variants": [
+            {
+              "width": 3375,
+              "height": 3375,
+              "purpose": "original",
+              "fileName": "3-original.png",
+              "mimeType": "image/png",
+              "storageKey": "brand-kits/653d1edd-628e-4142-9c21-53b781af8b8a/22f4e211-9d0d-4e19-b097-d8a23efce4b0/3-original.png",
+              "fileSizeBytes": 58869
+            },
+            {
+              "width": 16,
+              "height": 16,
+              "purpose": "favicon",
+              "fileName": "favicon-16.png",
+              "mimeType": "image/png",
+              "storageKey": "brand-kits/653d1edd-628e-4142-9c21-53b781af8b8a/22f4e211-9d0d-4e19-b097-d8a23efce4b0/favicon-16.png",
+              "fileSizeBytes": 426
+            },
+            {
+              "width": 32,
+              "height": 32,
+              "purpose": "favicon",
+              "fileName": "favicon-32.png",
+              "mimeType": "image/png",
+              "storageKey": "brand-kits/653d1edd-628e-4142-9c21-53b781af8b8a/22f4e211-9d0d-4e19-b097-d8a23efce4b0/favicon-32.png",
+              "fileSizeBytes": 1052
+            },
+            {
+              "width": 64,
+              "height": 64,
+              "purpose": "favicon",
+              "fileName": "favicon-64.png",
+              "mimeType": "image/png",
+              "storageKey": "brand-kits/653d1edd-628e-4142-9c21-53b781af8b8a/22f4e211-9d0d-4e19-b097-d8a23efce4b0/favicon-64.png",
+              "fileSizeBytes": 2750
+            },
+            {
+              "width": 128,
+              "height": 128,
+              "purpose": "favicon",
+              "fileName": "favicon-128.png",
+              "mimeType": "image/png",
+              "storageKey": "brand-kits/653d1edd-628e-4142-9c21-53b781af8b8a/22f4e211-9d0d-4e19-b097-d8a23efce4b0/favicon-128.png",
+              "fileSizeBytes": 7018
+            },
+            {
+              "width": 256,
+              "height": 256,
+              "purpose": "favicon",
+              "fileName": "favicon-256.png",
+              "mimeType": "image/png",
+              "storageKey": "brand-kits/653d1edd-628e-4142-9c21-53b781af8b8a/22f4e211-9d0d-4e19-b097-d8a23efce4b0/favicon-256.png",
+              "fileSizeBytes": 14718
+            },
+            {
+              "width": 32,
+              "height": 32,
+              "purpose": "favicon",
+              "fileName": "favicon.ico",
+              "mimeType": "image/x-icon",
+              "storageKey": "brand-kits/653d1edd-628e-4142-9c21-53b781af8b8a/22f4e211-9d0d-4e19-b097-d8a23efce4b0/favicon.ico",
+              "fileSizeBytes": 1052
+            }
+          ],
+          "aiAnalysis": {
+            "hasText": true,
+            "description": "Bold 3D isometric-style monogram logo featuring the letters 'WL' in large, thick block letterforms. The letters have a retro/comic aesthetic with black outlines, white primary faces, checkered halftone pattern on the right side faces suggesting depth and shadow, and solid black shadow/base elements. The style evokes vintage sports branding or pop art typography. The overall composition is wide/square, set against a transparent background.",
+            "textContent": "WL",
+            "dominantColors": [
+              "#FFFFFF",
+              "#000000",
+              "#808080"
+            ],
+            "recommendations": {
+              "bestFor": [
+                "favicon",
+                "navbar",
+                "hero"
+              ],
+              "usageNotes": "This logo works well on both light and dark backgrounds due to its transparent background and high-contrast black-and-white design. For favicons, export at 32x32 and 64x64 from the original 3375px source for crisp results. On dark backgrounds, the white face of the letters provides good contrast; on light backgrounds, the black outlines ensure visibility. Avoid placing on busy or textured backgrounds as the halftone pattern detail may visually clash. Recommended to add padding of at least 10% of the logo width when used in navbar contexts. SVG conversion recommended if scalability is needed for responsive layouts.",
+              "themeVariant": "neutral",
+              "notSuitableFor": [
+                "background"
+              ]
+            }
+          }
+        }
+      }
+    ]
+  }
+}
